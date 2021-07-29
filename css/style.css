@@ -1,0 +1,43 @@
+.logo-img{
+    height:40px;
+    width:180px;
+}
+
+.slider-img{
+    height:350px;
+    width:350px;
+}
+
+.card-image{
+    height:250px;
+    width:260px;
+}
+.video-section{
+    height:250px;
+    width:340px;
+}
+
+/* subscribe-section */
+.subscribe{
+    background-color:#264653;
+}
+
+
+/* footer-sections */
+.footer-sections{
+    background-color:black;
+    padding-top:70px;
+    padding-bottom:80px;
+}
+
+.app-store{
+    height:100px;
+    width:150px;
+}
+
+.footer-image{
+    margin-left:300px;
+}
+.footer-texts{
+    margin-left:80px;
+}
